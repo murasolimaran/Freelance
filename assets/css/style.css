@@ -1210,6 +1210,11 @@ section {
   flex-direction: column;
   gap: 0.1rem;
   color: #000;
+  text-align: center;
+}
+
+.member-info span {
+  color: #6c757d;
 }
 
 .member-img {
